@@ -1,13 +1,22 @@
 h1, h3 {
     font-family: Arial, Helvetica, sans-serif;
-    color: blueviolet;
+    color: #2F575D;
 }
 b {
-    color: yellowgreen
+    color: #658B6F;
 }
 body {
-    background-color:rgb(206, 177, 166);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color:#DEE1DD;
+}
+p::first-letter{
+    font-weight: bold;
+    font-size: larger;
 }
 #link{
-    color:coral;
+    color:#6D9197;
+    text-decoration: none;
+}
+#link:hover{
+    text-decoration:underline;
 }
