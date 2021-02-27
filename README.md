@@ -1,1 +1,0 @@
-# genericschooluser.github.io
